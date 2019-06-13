@@ -1,0 +1,18 @@
+.penguin {
+  background-color: black;
+  width: 600px;
+  height: 600px;
+}
+
+.body {
+  width: 250px;
+  height: 600px;
+  background-color: white;
+}
+
+.head {
+  width: 250px;
+  height: 250px;
+  background-color: black;
+  border-radius: 250px;
+}
